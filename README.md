@@ -1,6 +1,6 @@
 # Credit Card Default Prediction
                   AlmaBetter Verified Project
-![image](https://user-images.githubusercontent.com/104791753/218299557-dad55d80-7bf5-4c54-a920-bac84f9f8111.png)
+![image](https://user-images.githubusercontent.com/104791753/218315700-7c62362b-b86e-4c4e-a10f-833a31d41fdc.png)
 
 
 I have built a Credit Card Default Prediction Model using Python which can be deployed to minimize the risk of default and optimize credit management strategies for credit card companies by providing insights into customers' credit behavior.
@@ -10,7 +10,7 @@ This project is about Taiwan and aimed at predicting the case of customers defau
 
 The main motive behind the credit card prediction of Taiwan dataset is to help credit card companies better understand the risk profile of their customers. By analyzing the credit card behavior of their customers, the companies can make more informed decisions about granting credit, setting interest rates, and managing their portfolios. The goal is to minimize the risk of default and optimize their credit management strategies.
 
-## Data Fields
+## **Attribute Information**
 
 **ID:** ID of each client
 
@@ -63,7 +63,7 @@ for one month, 2=payment delay for two months,8=payment delay for eight months, 
 
 **default.payment.next.month:** Default payment (1=yes, 0=no)
 
-## Approach
+## Steps Involved
 
 * Importing Libraries And Loading The Datasets
 * Overview Of The Dataset 
@@ -103,4 +103,5 @@ for one month, 2=payment delay for two months,8=payment delay for eight months, 
 
 
 ## Dataset
-Dataset can be downloaded from : https://docs.google.com/spreadsheets/d/1V3zmCj3y4ERxbR2wy8zh8rfKFx7AS8QW/edit?usp=share_link&ouid=100224134617693119071&rtpof=true&sd=true
+
+The dataset can be downloaded from: https://docs.google.com/spreadsheets/d/1V3zmCj3y4ERxbR2wy8zh8rfKFx7AS8QW/edit?usp=share_link&ouid=100224134617693119071&rtpof=true&sd=true
