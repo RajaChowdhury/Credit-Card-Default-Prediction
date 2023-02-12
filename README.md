@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/104791753/218299557-dad55d80-7bf5-4c54-a920-bac84f9f8111.png)
 
 
-I have built a Credit Card Default Prediction Model using classification algorithms in Python which can be deployed to minimize the risk of default and optimize credit management strategies for credit card companies by providing insights into customers' credit behavior.
+I have built a Credit Card Default Prediction Model using Python which can be deployed to minimize the risk of default and optimize credit management strategies for credit card companies by providing insights into customers' credit behavior.
 
 ## Description
 This project is about Taiwan and aimed at predicting the case of customers default payments. The challenge is to develop a predictive model that can accurately predict the likelihood of a customer defaulting on their credit card payment. The model should take into account a range of factors such as the customer's age, income, spending habits, and payment history, among others, to make an informed prediction. 
